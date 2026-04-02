@@ -2,6 +2,27 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
+# Animated Cover Letter (Vue.js)
+
+A modern, interactive cover letter built with Vue.js featuring:
+
+- 3D water distortion background
+- Particle system animation
+- Glassmorphism UI with reflection effects
+- Mouse-reactive spotlight + ripple system
+- gitScroll-based reveal animations
+
+## Tech Stack
+- Vue 3 (Vite)
+- HTML, CSS, JavaScript
+- Canvas API
+
+## Live Preview
+(Add your deployed link here later)
+
+## Author
+Nasir Hill
+
 ## Recommended IDE Setup
 
 [VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
