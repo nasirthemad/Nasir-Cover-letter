@@ -29,26 +29,30 @@
 
         <article class="letter-grid">
           <div class="letter-main reveal reveal-delay-1">
-            <p>Dear Hiring Manager,</p>
+              <p>Dear Hiring Manager,</p>
 
             <p>
-              I am excited to bring my background in IT support, cybersecurity training, and software development to an organization that values reliability, security, and thoughtful technical execution. As a Computer Science graduate from Alabama A&amp;M University, I have built a foundation that combines hands-on troubleshooting, secure systems thinking, and practical development experience.
+              I am excited to bring my background in IT support, cybersecurity, and full-stack development to an organization that values secure, scalable, and user-focused technology. As a Computer Science graduate from Alabama A&amp;M University, I have developed a strong foundation in systems, networking, and modern application development, with a growing focus on building intelligent and secure software solutions.
             </p>
 
             <p>
-              In my recent role as an <strong>IT Technician at Fiscal Systems Inc.</strong>, I configured Linux-based site controllers, supported remote users through VNC and RDP-style workflows, analyzed transaction and system logs, maintained software backups and updates, managed IP-related issues, and responded quickly to outages and technical incidents. That experience strengthened my ability to stay calm under pressure, communicate clearly with users, and solve technical problems that affect day-to-day business operations.
+              In my role as an <strong>IT Technician at Fiscal Systems Inc.</strong>, I worked extensively with Linux-based systems, remote troubleshooting tools such as VNC, and network diagnostics to resolve real-world technical issues. I analyzed transaction logs, maintained system updates, managed IP configurations, and supported mission-critical systems used in production environments. This experience strengthened my ability to troubleshoot under pressure, communicate effectively with users, and ensure system reliability and performance.
             </p>
 
             <p>
-              Earlier, through the <strong>National Defense Education Program</strong>, I gained cybersecurity experience centered on phishing simulation, Oracle VM environments, Ngrok, and MITRE ATT&amp;CK-aligned training. That opportunity sharpened both my security mindset and my interest in building systems that are not only functional, but resilient and safe.
+              My cybersecurity experience through the <strong>National Defense Education Program</strong> allowed me to work with Oracle VM, Ngrok, and MITRE ATT&amp;CK-aligned techniques to simulate phishing attacks and educate users on security awareness. This reinforced my understanding of both offensive and defensive security practices and deepened my interest in secure system design.
             </p>
 
             <p>
-              I also enjoy building practical software solutions. One of my recent projects, an <strong>AI Security+ Study Bot</strong>, used JavaScript, Node.js, Express, OpenAI API integration, and browser storage to create an interactive study experience with quiz modes, explanations, and persistent progress. Across other projects in cryptography, databases, game development, and design, I have continued to grow as a developer who can learn quickly, adapt across tools, and contribute in both technical and collaborative environments.
+              Beyond my professional experience, I have built advanced full-stack applications, including my <strong>AI Security+ Study Platform</strong>. This project features authentication with Supabase, real-time AI-generated cybersecurity questions using the OpenAI API, a dynamic quiz engine with 90-question exam simulations, performance tracking dashboards, and cloud-synced user data. I designed the system with a scalable architecture separating frontend, backend, and database layers, and deployed it in a production environment with secure API handling.
             </p>
 
             <p>
-              I would welcome the opportunity to contribute my technical background, strong work ethic, and eagerness to keep growing in IT, cybersecurity, or software-focused roles. Thank you for your time and consideration. I look forward to the possibility of discussing how I can support your team.
+              I am particularly interested in opportunities where I can combine my skills in IT support, cybersecurity, and software development to build efficient, secure, and intelligent systems. I bring a strong work ethic, adaptability, and a continuous learning mindset, and I am eager to contribute to a team where I can grow and make an impact.
+            </p>
+
+            <p>
+              Thank you for your time and consideration. I look forward to the opportunity to discuss how my background and skills align with your team's goals.
             </p>
 
             <p class="signature">Sincerely,<br />Nasir Hill</p>
